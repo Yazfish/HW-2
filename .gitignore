@@ -28,5 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/
-/src/Main.java
 /HW-2.iml
