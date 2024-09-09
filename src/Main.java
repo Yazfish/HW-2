@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         System.out.println("Тестовые задания, домашка 2");
 
         System.out.println("Тестовое задание 1"); // Присвоение значений переменным
