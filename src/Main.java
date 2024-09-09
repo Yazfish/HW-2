@@ -71,5 +71,6 @@ public class Main {
         var foolWorktime = totalWorkers * workerTime;
         System.out.println("если в компании работает -- " +totalWorkers+ " человек, то всего " +foolWorktime+ " часа");
 
+
     }
 }
