@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         System.out.println("Тестовые задания, домашка 2");
 
         System.out.println("Тестовое задание 1"); // Присвоение значений переменным
@@ -70,6 +69,7 @@ public class Main {
         var totalWorkers = (Workers + newWorkers);
         var foolWorktime = totalWorkers * workerTime;
         System.out.println("если в компании работает -- " +totalWorkers+ " человек, то всего " +foolWorktime+ " часа");
+
 
     }
 }
